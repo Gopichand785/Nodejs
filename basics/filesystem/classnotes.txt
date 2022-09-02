@@ -1,0 +1,5 @@
+    Node-Js  
+1. it is a javascript runtime(not a framework/library)
+2.return an C++
+3.to devlop server-side appication in Js
+4.node js easy  to learn
